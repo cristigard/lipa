@@ -1,3 +1,4 @@
 new file in branch_a
 new text after merge brach
 new from branch a
+new after create branch b and commit in master
