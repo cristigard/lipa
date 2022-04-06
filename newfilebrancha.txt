@@ -1,1 +1,2 @@
 new file in branch_a
+new text after merge brach
